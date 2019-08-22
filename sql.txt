@@ -1,0 +1,60 @@
+user1...............
+
+
+
+insert into user1 values(1,'pune','user1@gmail.com','user1firstname','user1lastname',5236845692,'user1@dfrg','user1pic');
+
+insert into user1 values(2,'pune2','user2@gmail.com','user2firstname','user2lastname',2563845697,'user2@kjhi','user2pic');
+
+insert into user1 values(3,'pune3','user3@gmail.com','user3firstname','user3lastname',5746456564,'user3@hkjhj','pic3');
+
+
+
+
+
+merchant......................
+
+
+
+
+
+insert into merchant values(11,'Capg','merchant1@gmail.com','merchant1firstname','merchant1lastname',5236985236,'merchant123','merchantpic',8,'active');
+
+
+
+
+
+insert into merchant values(12,'Cdesapghghg','merchant2@gmail.com','merchant2firstname','merchant2lastname',5654481265,'merchantacvgg','merchantpic',9,'active');
+
+
+
+insert into merchant values(13,'infi','merchant3@gmail.com','merchant3firstname','merchant3lastname',8562145899,'merchantgjjh','merchantpic',6,'active');
+
+
+
+product.............
+
+
+
+insert into product values(21,'toy','capg','play','abc',5200,'train',55,TO_DATE('11/21/2012', 'MM/DD/YYYY'),52,'abc',11);
+
+insert into product values(22,'toyes','capgacv','cfd','abc',5200,'train',55,TO_DATE('11/21/2012', 'MM/DD/YYYY'),52,'abc',11);
+
+insert into product values(23,'toyff','capgff','hhg','abc',5200,'train',55,TO_DATE('11/21/2012', 'MM/DD/YYYY'),52,'abc',11);
+
+insert into product values(26,'toyff','capgff','hhg','abc',5200,'train',55,TO_DATE('11/21/2012', 'MM/DD/YYYY'),52,'abc',11);
+
+
+
+cart.............
+
+
+
+insert into cart values(31,5200,1);
+
+insert into cart values(32,566,2);
+
+insert into cart values(33,200,3);
+
+
+
